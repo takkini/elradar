@@ -15,8 +15,8 @@ sites:
     url: https://kamisaki.soporte.eu.org
   - name: CONDEVIN Website
     url: https://www.devinconde.com
-  - name: Titicaca Catamarans
-    url: https://los-titicacacatamarans.com
+  - name: Bitácora d ROOT
+    url: https://www.bitacoraroot.com
   - name: Ventas Inmediatas
     url: https://ventasinmediatas.transturin.com
 
@@ -54,7 +54,8 @@ i18n:
 # Pasando a spanish locale
 # TeroRERO  
   activeIncidents: Incidentes Activos
-  allSystemsOperational: Todos los sistemas están operativos
+# allSystemsOperational: Todos los sistemas están operativos
+  allSystemsOperational: "🟩 Todos los sistemas operativos"
   incidentReport: "Informe del incidente #$NUMBER →"
   activeIncidentSummary: Abierto en fecha $DATE con mensajes $POSTS
   incidentTitle: Incidente $NUMBER Detalles
