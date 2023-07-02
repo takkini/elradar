@@ -9,12 +9,12 @@ sites:
     url: https://www.la-razon.com/login
   - name: El Loro de Oro
     url: https://lorodeoro.la-razon.com
-  - name: El Loro de Oro (ADMIN)
-    url: https://pa-admin.la-razon.com
-  - name: Storage TT
-    url: https://storage.soporte.eu.org
-  - name: TransTurin Website
-    url: https://www.transturin.com
+  - name: El Loro (ADMIN)
+    url: https://lorodeoro.la-razon.com/admin
+  - name: Drive Root24
+    url: https://drive.root24.eu.org
+  - name: CONDEVIN Website
+    url: https://www.devinconde.com
   - name: Titicaca Catamarans
     url: https://titicacacatamarans.com
   - name: Ventas Inmediatas
