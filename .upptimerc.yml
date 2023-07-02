@@ -1,34 +1,54 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: terorero # Your GitHub organization or username, where this repository lives
+repo: radar # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: La Razón
+    url: https://www.la-razon.com
+  - name: Login LR
+    url: https://www.la-razon.com/login
+  - name: El Loro de Oro
+    url: https://lorodeoro.la-razon.com
+  - name: El Loro de Oro (ADMIN)
+    url: https://pa-admin.la-razon.com
+  - name: Storage TT
+    url: https://storage.soporte.eu.org
+  - name: TransTurin Website
+    url: https://www.transturin.com
+  - name: Titicaca Catamarans
+    url: https://titicacacatamarans.com
+  - name: Ventas Inmediatas
+    url: https://ventasinmediatas.transturin.com
+
+assignees:
+  - terorero
+
+# Add downtime notifications
+# https://upptime.js.org/docs/notifications
+notifications:
+  - type: email
+    channel: smtp
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: monitor.soporte.eu.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # TeroRERO logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.la-razon.com/wp-content/themes/lr-genosha/assets/img/la-razon-logo.png
+  name: Radar de Servicios
+  introTitle: "**RADAR** Monitoreo de servicios en línea."
+  favicon: https://www.la-razon.com/wp-content/uploads/2020/04/favicon-lr.png
+  # TeroRERO introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # TeroRERO themes : Available themes are light, dark, night or ocean.
+  theme: dark  
+  # TeroRERO introMessage: © Derechos Reservados  2023
+  introMessage: © LA RAZÓN - EL EXTRA - IGMC ®2023
   navbar:
-    - title: Status
+    - title: Radar
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: La Razón
+      href: https://www.root24.eu.org
 
 i18n:
 # Pasando a spanish locale
