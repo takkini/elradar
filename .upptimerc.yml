@@ -78,7 +78,12 @@ i18n:
   responseTimeMs: Tiempo de respuesta (ms)
 # TeroRERO desactiva   up: Arriba
 # TeroRERO desactiva  down: Abajo
-  degraded: Degradado
+# TeroRERO desactiva  degraded: Degradado
+# TeroRERO INICIO
+  degradedPerformance: "🟨 Rendimiento degradado"
+  completeOutage: "🟥 Interrupción completa"
+  partialOutage: "🟧 Interrupción parcial"
+# TeroRERO FINAL
   ms: ms
   loading: Cargando
   navGitHub: GitHub
