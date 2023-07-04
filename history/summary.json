@@ -40,19 +40,19 @@
     "url": "https://lorodeoro.la-razon.com",
     "icon": "https://icons.duckduckgo.com/ip3/lorodeoro.la-razon.com.ico",
     "slug": "el-loro-de-oro",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 987,
-    "timeDay": 931,
-    "timeWeek": 987,
-    "timeMonth": 987,
-    "timeYear": 987,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 971,
+    "timeDay": 860,
+    "timeWeek": 971,
+    "timeMonth": 971,
+    "timeYear": 971,
     "dailyMinutesDown": {
-      "2023-07-04": 0
+      "2023-07-04": 16
     }
   },
   {
