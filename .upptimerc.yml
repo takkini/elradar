@@ -56,7 +56,8 @@ i18n:
 # TeroRERO  
   activeIncidents: Incidentes Activos
 # allSystemsOperational: Todos los sistemas están operativos
-  allSystemsOperational: "🟩 Todos los sistemas operativos"
+# allSystemsOperational: "🟩 Todos los sistemas operativos"
+  allSystemsOperational: "✅ Todos los sistemas operativos"
   incidentReport: "Informe del incidente #$NUMBER →"
   activeIncidentSummary: Abierto en fecha $DATE con mensajes $POSTS
   incidentTitle: Incidente $NUMBER Detalles
