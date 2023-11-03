@@ -16,7 +16,7 @@
     "timeMonth": 70,
     "timeYear": 70,
     "dailyMinutesDown": {
-      "2023-11-03": 2
+      "2023-11-03": 12
     }
   },
   {
@@ -54,27 +54,27 @@
     "timeMonth": 147,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2023-11-03": 2
+      "2023-11-03": 12
     }
   },
   {
-    "name": "Remoto TI",
-    "url": "https://remoto-ti.la-razon.com",
-    "icon": "https://icons.duckduckgo.com/ip3/remoto-ti.la-razon.com.ico",
-    "slug": "remoto-ti",
+    "name": "Drive24",
+    "url": "https://drive.root24.eu.org",
+    "icon": "https://icons.duckduckgo.com/ip3/drive.root24.eu.org.ico",
+    "slug": "drive24",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 49,
-    "timeDay": 49,
-    "timeWeek": 49,
-    "timeMonth": 49,
-    "timeYear": 49,
+    "time": 294,
+    "timeDay": 294,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
     "dailyMinutesDown": {
-      "2023-11-03": 2
+      "2023-11-03": 0
     }
   },
   {
