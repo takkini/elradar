@@ -10,7 +10,7 @@ sites:
   - name: Remoto
     url: https://remoto.la-razon.com
   - name: Drive24
-    url: https://drive.root24.eu.org
+    url: https://drive.root24.eu.org/login
   - name: Kamisaki
     url: https://kamisaki.soporte.eu.org
   - name: CONDEVIN Website
