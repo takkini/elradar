@@ -3,14 +3,14 @@ owner: terorero # Your GitHub organization or username, where this repository li
 repo: radar # The name of this repository
 
 sites:
-  - name: La Razón
-    url: https://www.la-razon.com
+  - name: La Razón - Intranet
+    url: https://intranet.la-razon.com
   - name: Transturin SRL.
     url: https://www.transturin.com/web
-  - name: El Loro de Oro
-    url: https://lorodeoro.la-razon.com
-  - name: El Loro (ADMIN)
-    url: https://lorodeoro.la-razon.com/admin
+  - name: Remoto
+    url: https://remoto.la-razon.com
+  - name: Remoto TI
+    url: https://remoto-ti.la-razon.com
   - name: Kamisaki
     url: https://kamisaki.soporte.eu.org
   - name: CONDEVIN Website
