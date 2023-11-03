@@ -5,8 +5,8 @@ repo: radar # The name of this repository
 sites:
   - name: La Razón
     url: https://www.la-razon.com
-  - name: Login LR
-    url: https://www.la-razon.com/login
+  - name: Transturin SRL.
+    url: https://www.transturin.com/web
   - name: El Loro de Oro
     url: https://lorodeoro.la-razon.com
   - name: El Loro (ADMIN)
