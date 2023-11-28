@@ -16,7 +16,7 @@
     "timeMonth": 88,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2023-11-28": 73,
+      "2023-11-28": 123,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
@@ -79,7 +79,7 @@
     "timeMonth": 91,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2023-11-28": 73,
+      "2023-11-28": 123,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
@@ -124,7 +124,7 @@
     "timeMonth": 191,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2023-11-28": 73,
+      "2023-11-28": 123,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
@@ -157,54 +157,60 @@
     "url": "https://kamisaki.soporte.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/kamisaki.soporte.eu.org.ico",
     "slug": "kamisaki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1359,
-    "timeDay": 1331,
-    "timeWeek": 1207,
-    "timeMonth": 1200,
-    "timeYear": 1359,
-    "dailyMinutesDown": {}
+    "time": 1350,
+    "timeDay": 774,
+    "timeWeek": 1083,
+    "timeMonth": 1163,
+    "timeYear": 1350,
+    "dailyMinutesDown": {
+      "2023-11-28": 0
+    }
   },
   {
     "name": "CONDEVIN Website",
     "url": "https://www.devinconde.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.devinconde.com.ico",
     "slug": "condevin-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 377,
-    "timeDay": 423,
-    "timeWeek": 434,
-    "timeMonth": 410,
-    "timeYear": 377,
-    "dailyMinutesDown": {}
+    "time": 375,
+    "timeDay": 271,
+    "timeWeek": 395,
+    "timeMonth": 399,
+    "timeYear": 375,
+    "dailyMinutesDown": {
+      "2023-11-28": 0
+    }
   },
   {
     "name": "Bitácora d ROOT",
     "url": "https://www.bitacoraroot.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bitacoraroot.com.ico",
     "slug": "bitacora-d-root",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 132,
-    "timeWeek": 116,
-    "timeMonth": 134,
-    "timeYear": 144,
-    "dailyMinutesDown": {}
+    "time": 143,
+    "timeDay": 127,
+    "timeWeek": 117,
+    "timeMonth": 133,
+    "timeYear": 143,
+    "dailyMinutesDown": {
+      "2023-11-28": 0
+    }
   },
   {
     "name": "Ventas Inmediatas",
