@@ -16,7 +16,7 @@
     "timeMonth": 88,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2023-11-28": 123,
+      "2023-11-28": 153,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
@@ -79,7 +79,7 @@
     "timeMonth": 91,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2023-11-28": 123,
+      "2023-11-28": 153,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
@@ -124,7 +124,7 @@
     "timeMonth": 191,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2023-11-28": 123,
+      "2023-11-28": 153,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
@@ -157,19 +157,19 @@
     "url": "https://kamisaki.soporte.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/kamisaki.soporte.eu.org.ico",
     "slug": "kamisaki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1350,
-    "timeDay": 774,
-    "timeWeek": 1083,
-    "timeMonth": 1163,
-    "timeYear": 1350,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 1351,
+    "timeDay": 1000,
+    "timeWeek": 1124,
+    "timeMonth": 1174,
+    "timeYear": 1351,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 30
     }
   },
   {
@@ -177,19 +177,19 @@
     "url": "https://www.devinconde.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.devinconde.com.ico",
     "slug": "condevin-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 375,
-    "timeDay": 271,
-    "timeWeek": 395,
-    "timeMonth": 399,
+    "timeDay": 336,
+    "timeWeek": 403,
+    "timeMonth": 402,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 30
     }
   },
   {
@@ -197,19 +197,19 @@
     "url": "https://www.bitacoraroot.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bitacoraroot.com.ico",
     "slug": "bitacora-d-root",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 127,
-    "timeWeek": 117,
-    "timeMonth": 133,
-    "timeYear": 143,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 144,
+    "timeDay": 159,
+    "timeWeek": 129,
+    "timeMonth": 136,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 30
     }
   },
   {
