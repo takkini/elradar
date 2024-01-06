@@ -16,7 +16,7 @@
     "timeMonth": 100,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-01-06": 71,
+      "2024-01-06": 1182,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
@@ -88,9 +88,9 @@
     "url": "https://www.transturin.com/web",
     "icon": "https://icons.duckduckgo.com/ip3/www.transturin.com.ico",
     "slug": "transturin-srl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -99,7 +99,9 @@
     "timeWeek": 2291,
     "timeMonth": 2057,
     "timeYear": 2012,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-06": 0
+    }
   },
   {
     "name": "Remoto",
@@ -118,7 +120,7 @@
     "timeMonth": 91,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-01-06": 71,
+      "2024-01-06": 1182,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
@@ -202,7 +204,7 @@
     "timeMonth": 181,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2024-01-06": 71,
+      "2024-01-06": 1182,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
