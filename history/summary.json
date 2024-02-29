@@ -16,7 +16,7 @@
     "timeMonth": 79,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-02-29": 991,
+      "2024-02-29": 1001,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -143,18 +143,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.transturin.com.ico",
     "slug": "transturin-srl",
     "status": "down",
-    "uptime": "54.51%",
+    "uptime": "54.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.51%",
+    "uptimeYear": "54.50%",
     "time": 1677,
     "timeDay": 1241,
     "timeWeek": 1193,
     "timeMonth": 1366,
     "timeYear": 1677,
     "dailyMinutesDown": {
-      "2024-02-29": 991,
+      "2024-02-29": 1001,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -228,7 +228,7 @@
     "timeMonth": 84,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2024-02-29": 991,
+      "2024-02-29": 1001,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -366,7 +366,7 @@
     "timeMonth": 176,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2024-02-29": 991,
+      "2024-02-29": 1001,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -552,11 +552,11 @@
     "url": "https://ventasinmediatas.transturin.com",
     "icon": "https://icons.duckduckgo.com/ip3/ventasinmediatas.transturin.com.ico",
     "slug": "ventas-inmediatas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 518,
     "timeDay": 2402,
@@ -564,7 +564,7 @@
     "timeMonth": 550,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2024-02-29": 14,
+      "2024-02-29": 0,
       "2023-07-02": 30
     }
   }
